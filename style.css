@@ -1,0 +1,30 @@
+.color {
+    text-align: justify;
+    background-color: lavender;
+    border: 10px solid tomato;
+    border-radius: 10px;
+    margin: 15px;
+    padding: 5px;
+    box-shadow: 10px 15px 20px lightgreen;
+}
+
+h2 {
+    text-align: center;
+}
+
+.design {
+    background-image: url(depositphotos.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: beige;
+    text-align: justify;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+button {
+    display: block;
+    margin: auto;
+    border-radius: 5px;
+}
